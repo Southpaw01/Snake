@@ -1,0 +1,5 @@
+C:\Users\Илья Петров\source\repos\Snake\GameLogic\obj\Debug\net5.0\GameLogic.csproj.AssemblyReference.cache
+C:\Users\Илья Петров\source\repos\Snake\GameLogic\obj\Debug\net5.0\GameLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья Петров\source\repos\Snake\GameLogic\obj\Debug\net5.0\GameLogic.AssemblyInfoInputs.cache
+C:\Users\Илья Петров\source\repos\Snake\GameLogic\obj\Debug\net5.0\GameLogic.AssemblyInfo.cs
+C:\Users\Илья Петров\source\repos\Snake\GameLogic\obj\Debug\net5.0\GameLogic.csproj.CoreCompileInputs.cache

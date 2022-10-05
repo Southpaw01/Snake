@@ -1,0 +1,12 @@
+C:\Users\Илья Петров\source\repos\Snake\InputOutputSystem\bin\Debug\net6.0\InputOutputSystem.deps.json
+C:\Users\Илья Петров\source\repos\Snake\InputOutputSystem\bin\Debug\net6.0\InputOutputSystem.dll
+C:\Users\Илья Петров\source\repos\Snake\InputOutputSystem\bin\Debug\net6.0\ref\InputOutputSystem.dll
+C:\Users\Илья Петров\source\repos\Snake\InputOutputSystem\bin\Debug\net6.0\InputOutputSystem.pdb
+C:\Users\Илья Петров\source\repos\Snake\InputOutputSystem\obj\Debug\net6.0\InputOutputSystem.csproj.AssemblyReference.cache
+C:\Users\Илья Петров\source\repos\Snake\InputOutputSystem\obj\Debug\net6.0\InputOutputSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья Петров\source\repos\Snake\InputOutputSystem\obj\Debug\net6.0\InputOutputSystem.AssemblyInfoInputs.cache
+C:\Users\Илья Петров\source\repos\Snake\InputOutputSystem\obj\Debug\net6.0\InputOutputSystem.AssemblyInfo.cs
+C:\Users\Илья Петров\source\repos\Snake\InputOutputSystem\obj\Debug\net6.0\InputOutputSystem.csproj.CoreCompileInputs.cache
+C:\Users\Илья Петров\source\repos\Snake\InputOutputSystem\obj\Debug\net6.0\InputOutputSystem.dll
+C:\Users\Илья Петров\source\repos\Snake\InputOutputSystem\obj\Debug\net6.0\ref\InputOutputSystem.dll
+C:\Users\Илья Петров\source\repos\Snake\InputOutputSystem\obj\Debug\net6.0\InputOutputSystem.pdb

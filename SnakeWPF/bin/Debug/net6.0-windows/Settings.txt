@@ -1,0 +1,5 @@
+5
+30x15
+False
+True
+False

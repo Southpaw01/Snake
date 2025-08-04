@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "GameLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/GameLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GameLogic.dll": {}
+        }
+      },
+      "InputOutputSystem/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/InputOutputSystem.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InputOutputSystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameLogic/1.0.0": {
+      "type": "project",
+      "path": "../GameLogic/GameLogic.csproj",
+      "msbuildProject": "../GameLogic/GameLogic.csproj"
+    },
+    "InputOutputSystem/1.0.0": {
+      "type": "project",
+      "path": "../InputOutputSystem/InputOutputSystem.csproj",
+      "msbuildProject": "../InputOutputSystem/InputOutputSystem.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "GameLogic >= 1.0.0",
+      "InputOutputSystem >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Илья Петров\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Илья Петров\\source\\repos\\Snake\\SnakeWPF\\SnakeWPF.csproj",
+      "projectName": "SnakeWPF",
+      "projectPath": "C:\\Users\\Илья Петров\\source\\repos\\Snake\\SnakeWPF\\SnakeWPF.csproj",
+      "packagesPath": "C:\\Users\\Илья Петров\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Илья Петров\\source\\repos\\Snake\\SnakeWPF\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Илья Петров\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Илья Петров\\source\\repos\\Snake\\GameLogic\\GameLogic.csproj": {
+              "projectPath": "C:\\Users\\Илья Петров\\source\\repos\\Snake\\GameLogic\\GameLogic.csproj"
+            },
+            "C:\\Users\\Илья Петров\\source\\repos\\Snake\\InputOutputSystem\\InputOutputSystem.csproj": {
+              "projectPath": "C:\\Users\\Илья Петров\\source\\repos\\Snake\\InputOutputSystem\\InputOutputSystem.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

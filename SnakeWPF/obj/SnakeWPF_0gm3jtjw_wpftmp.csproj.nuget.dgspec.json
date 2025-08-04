@@ -1,0 +1,180 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Илья Петров\\source\\repos\\Snake\\SnakeWPF\\SnakeWPF.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Илья Петров\\source\\repos\\Snake\\GameLogic\\GameLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Илья Петров\\source\\repos\\Snake\\GameLogic\\GameLogic.csproj",
+        "projectName": "GameLogic",
+        "projectPath": "C:\\Users\\Илья Петров\\source\\repos\\Snake\\GameLogic\\GameLogic.csproj",
+        "packagesPath": "C:\\Users\\Илья Петров\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Илья Петров\\source\\repos\\Snake\\GameLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Илья Петров\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Илья Петров\\source\\repos\\Snake\\InputOutputSystem\\InputOutputSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Илья Петров\\source\\repos\\Snake\\InputOutputSystem\\InputOutputSystem.csproj",
+        "projectName": "InputOutputSystem",
+        "projectPath": "C:\\Users\\Илья Петров\\source\\repos\\Snake\\InputOutputSystem\\InputOutputSystem.csproj",
+        "packagesPath": "C:\\Users\\Илья Петров\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Илья Петров\\source\\repos\\Snake\\InputOutputSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Илья Петров\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Илья Петров\\source\\repos\\Snake\\SnakeWPF\\SnakeWPF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Илья Петров\\source\\repos\\Snake\\SnakeWPF\\SnakeWPF.csproj",
+        "projectName": "SnakeWPF",
+        "projectPath": "C:\\Users\\Илья Петров\\source\\repos\\Snake\\SnakeWPF\\SnakeWPF.csproj",
+        "packagesPath": "C:\\Users\\Илья Петров\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Илья Петров\\source\\repos\\Snake\\SnakeWPF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Илья Петров\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Илья Петров\\source\\repos\\Snake\\GameLogic\\GameLogic.csproj": {
+                "projectPath": "C:\\Users\\Илья Петров\\source\\repos\\Snake\\GameLogic\\GameLogic.csproj"
+              },
+              "C:\\Users\\Илья Петров\\source\\repos\\Snake\\InputOutputSystem\\InputOutputSystem.csproj": {
+                "projectPath": "C:\\Users\\Илья Петров\\source\\repos\\Snake\\InputOutputSystem\\InputOutputSystem.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

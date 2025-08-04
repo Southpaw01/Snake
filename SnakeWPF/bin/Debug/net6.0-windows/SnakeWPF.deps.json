@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SnakeWPF/1.0.0": {
+        "dependencies": {
+          "GameLogic": "1.0.0",
+          "InputOutputSystem": "1.0.0"
+        },
+        "runtime": {
+          "SnakeWPF.dll": {}
+        }
+      },
+      "GameLogic/1.0.0": {
+        "runtime": {
+          "GameLogic.dll": {}
+        }
+      },
+      "InputOutputSystem/1.0.0": {
+        "runtime": {
+          "InputOutputSystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SnakeWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GameLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InputOutputSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

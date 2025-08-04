@@ -1,0 +1,5 @@
+C:\Users\Илья Петров\source\repos\Snake\SnakeConsole\obj\Debug\net5.0\SnakeConsole.csproj.AssemblyReference.cache
+C:\Users\Илья Петров\source\repos\Snake\SnakeConsole\obj\Debug\net5.0\SnakeConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья Петров\source\repos\Snake\SnakeConsole\obj\Debug\net5.0\SnakeConsole.AssemblyInfoInputs.cache
+C:\Users\Илья Петров\source\repos\Snake\SnakeConsole\obj\Debug\net5.0\SnakeConsole.AssemblyInfo.cs
+C:\Users\Илья Петров\source\repos\Snake\SnakeConsole\obj\Debug\net5.0\SnakeConsole.csproj.CoreCompileInputs.cache
